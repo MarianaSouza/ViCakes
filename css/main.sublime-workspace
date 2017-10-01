@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"vicakesdoces"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"obj",
+				"object-fit"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mariana/Documents/Sites/projects/vicakes/assets/css/main.css",
+		"/C/Users/Mariana/Documents/Sites/projects/vicakes/index.html",
+		"/C/Users/Mariana/Documents/Sites/projects/vicakes/contact_me.php",
+		"/C/Users/Mariana/Documents/Sites/mariana/index.html",
+		"/C/Users/Mariana/Documents/Sites/mariana/assets/css/main.css",
+		"/C/Users/Mariana/Documents/Sites/vicakes/assets/css/main.css",
+		"/C/Users/Mariana/Documents/Sites/vicakes/index.html",
+		"/C/Users/Mariana/Documents/Sites/portfolio mariana/index.html",
+		"/C/Users/Mariana/Documents/Sites/Vicakes_old/www/index.html",
+		"/C/Users/Mariana/Documents/Sites/portfolio mariana/assets/css/main.css",
+		"/C/Users/Mariana/Documents/Sites/Vicakes_old/www/css/style.css",
+		"/C/Users/Mariana/Documents/Sites/Vicakes/www/css/style.css",
+		"/C/Users/Mariana/Documents/Sites/Vicakes/www/index.html",
+		"/C/Users/Mariana/Documents/Sites/VK/assets/css/main.css",
+		"/C/Users/Mariana/Documents/github/VK/assets/css/main.css",
+		"/C/Users/Mariana/Documents/github/VK/index.html",
+		"/C/Users/Mariana/Documents/Sites/VK/index.html",
+		"/C/Users/Mariana/Documents/Sites/VK/elements.html",
+		"/C/Users/Mariana/Documents/HTML-CSS/portfolio mariana/assets/sass/main.scss",
+		"/C/Users/Mariana/Documents/HTML-CSS/portfolio mariana/assets/sass/ie9.scss",
+		"/C/Users/Mariana/Documents/HTML-CSS/portfolio mariana/assets/sass/ie8.scss",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/www/css/style.css",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/www/index.html",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/css/style.css",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/vicakes.html",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/photos/cupLemb2.jpg",
+		"/C/Users/Mariana/Documents/HTML-CSS/aulas/aula6.html",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/photos/viviane_n.jpg",
+		"/C/Users/Mariana/Documents/HTML-CSS/aulas/listas.html",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/photos/bolo cone.JPG",
+		"/C/Users/Mariana/Documents/HTML-CSS/Vicakes/css/bootstrap.css",
+		"/C/Users/Mariana/Documents/HTML-CSS/listas.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#header img ",
+			"#header img {",
+			"<img src=\"assets/images/logo.PNG\" alt= \"Logo Cupcake\" height=\"70\"/>",
+			"#header img",
+			"480",
+			"375",
+			"wrapper",
+			"tech",
+			"footer",
+			">",
+			"label",
+			"webkit-any-link",
+			"a:-webkit-any-link",
+			"h2",
+			"contact",
+			"76",
+			"768",
+			"important",
+			"underline",
+			"text-decoration",
+			"hover",
+			"texta",
+			"header",
+			"360",
+			"header",
+			"360",
+			"font-size-adjust",
+			"Media",
+			"jumbo",
+			"before",
+			"Montserrat-Regula",
+			"Montserrat",
+			"Raleway",
+			"5em",
+			"hover",
+			"5u",
+			"portfolio",
+			"talk",
+			"border-radius",
+			"image-fit",
+			"top",
+			"200px",
+			";\n",
+			"text-shadow",
+			"class=\"center-block\"",
+			"pic",
+			"img",
+			"viv",
+			"vivia",
+			"ownerww",
+			"50000",
+			"container-full",
+			"container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,270 @@
+html, body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Arvo", serif;
+  font-size: 16px;
+}
+
+/* Header */
+
+/*.logo {
+height: 150px;
+float: left;
+padding: 20PX;
+} */
+header {
+  background-color: #fff;
+  height: 100px;
+}
+header h1 {
+  padding: 20px;
+  font-size: 50px;
+  color: #D50000;
+  text-align: center;
+  margin-left: 80px;
+  line-height: 0.7em;
+}
+header p {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #333;
+}
+.nav {
+  float: right;
+  margin-right: 20px;
+}
+.nav li {
+  color: #fff;
+  font-size: 16px;
+}
+.nav-pills li a {
+  color: #D50000;
+  border: 1px solid #D50000;
+  margin: 40px 10px 40px 10px;
+  padding: 10px;
+  text-align: center;
+}
+.nav-pills li.active a, .nav-pills li a:hover {
+  background-color: rgba(216, 25, 47, 1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+  color: #fff;
+}
+
+/*
+Inicio Jumbotron
+*/
+.jumbotron {
+  background: url("..//photos//capaCakeBrig.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 25px;
+  margin-bottom: 0;
+  height: 500px;
+}
+.jumbotron h2:first-child {
+  margin: 120px 0 0;
+}
+.jumbotron h2 {
+  color: #fff;
+  font-size: 40px;
+  text-align: right;
+  margin: 0;
+  text-shadow: 2px 2px #000;
+}
+
+/*
+Fim Jumbotron
+*/
+
+/*
+Inicio Home
+*/
+.owner-pic {
+  height: 200px;
+  float: right;
+  border-radius: 50%;
+  margin: 50px 220px 20px 20px;
+  padding: 20px;
+}
+
+.home {
+  background-color: #fff;
+  margin: 0 auto;
+  min-height: 500px;
+}
+
+.home h3 {
+  margin-top: 100px;
+  margin-left: 100px;
+  padding: 10px;
+  color: #333;
+  text-align: center;
+  font-size: 40px;
+}
+
+.home p {
+  margin: 30px 350px 60px 200px;
+  color: #333;
+  font-size: 22px;
+}
+
+/*
+Fim Home
+*/
+
+.gallery {
+  padding: 20px 200px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 14px;
+}
+
+.gallery img {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  line-height: 0;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.gallery img:hover {
+  border: solid 1px #CCC;
+  -moz-box-shadow: 1px 1px 5px #999;
+  -webkit-box-shadow: 1px 1px 5px #999;
+  box-shadow: 1px 1px 1px #999;
+}
+
+
+.first img {
+  padding: 5px;
+  height: 270px;
+  width: 370px;
+  object-fit: cover;
+}
+
+.second img {
+  padding: 5px;
+  height: 270px;
+  width: 370px;
+  object-fit: cover;
+}
+
+.third img {
+  padding: 5px;  
+  margin: 0 auto;
+  height: 270px;
+  width: 370px;
+  object-fit: cover;
+}
+
+.fourth img {
+  padding: 5px;  
+  margin: 0 auto;
+  height: 270px;
+  width: 370px;
+  object-fit: cover;
+}
+
+.one {
+  background: rgba(234, 125, 89, 0.2);
+  text-align: center;
+}
+
+.one p {
+  color: #333;
+  text-align: center;
+}
+
+.two {
+  background: #fff;
+}
+
+.two p {
+  color: #333;
+  text-align: center;
+}
+
+.three {
+  background: rgba(234, 125, 89, 0.2);
+}
+
+.three p {
+  color: #333;
+  text-align: center;
+}
+
+/*
+Início Footer
+*/
+
+footer {
+  padding: 30px 200px;
+  background-color: #fff;
+  color: #333;
+}
+
+footer h3{
+  font-size: 20px;
+}
+
+footer p {
+  padding: 2px;
+}
+
+.a-left img{
+ padding: 6px;
+}
+
+.a-right {
+  margin-bottom: 20px;
+  text-align: right;
+  float: right;
+  font-size: 14px;
+}
+
+.a-right li{
+  display: inline;
+}
+
+.a-right a {
+  -moz-transition: color .2s ease-in-out;
+  -webkit-transition: color .2s ease-in-out;
+  -ms-transition: color .2s ease-in-out;
+  transition: color .2s ease-in-out;
+  color: inherit;
+}
+.a-right a:hover {
+  color: #777;
+  text-decoration: none;
+}
+
+/*
+Fim Footer
+*/
+
+/* Media Queries */
+@media (max-width:680px) {
+  .jumbotron {
+    text-align: center;
+    outline: 1px red solid;
+  }
+  header h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .nav {
+    float: none;
+    margin: 0 auto;
+  }
+  .banner {
+    height: 220px;
+  }
+  .nav-pills li:first-child a {
+    margin-left: 0;
+  }
+}
